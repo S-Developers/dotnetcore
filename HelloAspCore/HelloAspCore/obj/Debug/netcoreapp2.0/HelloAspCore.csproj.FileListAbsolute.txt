@@ -1,0 +1,11 @@
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\bin\Debug\netcoreapp2.0\HelloAspCore.deps.json
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\bin\Debug\netcoreapp2.0\HelloAspCore.runtimeconfig.json
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\bin\Debug\netcoreapp2.0\HelloAspCore.runtimeconfig.dev.json
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\bin\Debug\netcoreapp2.0\HelloAspCore.dll
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\bin\Debug\netcoreapp2.0\HelloAspCore.pdb
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\obj\Debug\netcoreapp2.0\HelloAspCore.csprojResolveAssemblyReference.cache
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\obj\Debug\netcoreapp2.0\HelloAspCore.csproj.CoreCompileInputs.cache
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\obj\Debug\netcoreapp2.0\HelloAspCore.AssemblyInfoInputs.cache
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\obj\Debug\netcoreapp2.0\HelloAspCore.AssemblyInfo.cs
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\obj\Debug\netcoreapp2.0\HelloAspCore.dll
+D:\Data\Projects\Demos\Core\HelloAspCore\HelloAspCore\obj\Debug\netcoreapp2.0\HelloAspCore.pdb
